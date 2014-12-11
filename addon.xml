@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.D17"
-       name="D17"
-       version="1.0.0"
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.D8"
+       name="D8"
+       version="2.0.0"
        provider-name="JUL1EN094">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.parsedom" version="2.5.1"/>
   </requires>
   <extension point="xbmc.python.pluginsource"
             library="default.py">
-    <provides>video</provides>
+        <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
     <platform>all</platform>
-    <summary>D17</summary>
-    <summary lang="fr">D17</summary>
-    <summary lang="en">D17</summary>
-    <description>D17</description>
-    <description lang="fr">Extension donnant accès aux vidéos de la chaîne française D17</description>
-    <description lang="en">Addon to watch videos from french tv channel D17</description>
+    <summary>D8v</summary>
+    <summary lang="fr">D8</summary>
+    <description>D8.tv</description>
+    <description lang="fr">Extension donnant accès aux vidéos de la chaîne française D8</description>
+    <description lang="fr">Addon to watch videos from french tv channel D8</description>
   </extension>
 </addon>
