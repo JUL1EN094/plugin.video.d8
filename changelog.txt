@@ -1,4 +1,4 @@
-﻿2.0.1(15-12-2014) by JUL1EN094
+﻿2.0.1 (12-15-2014) by JUL1EN094
 - Fix addon.xml
 - Fix url
 - Modify changelog language --> english
