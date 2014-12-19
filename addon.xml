@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.d8"
-       name="d8"
-       version="1.0.0"
+       name="D8"
+       version="2.0.2"
        provider-name="JUL1EN094">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>

@@ -2,7 +2,7 @@
 <strings>
   <!-- Les strings de 30000 à 30999 sont réservées aux paramètres plug-in -->
   <!--GENERAL STRINGS -->
-  <string id="30000">d8</string>
+  <string id="30000">D8</string>
   <string id="30001">Direct</string>
 
   <!--SETTINGS STRINGS -->
